@@ -9,6 +9,8 @@ public class Runner {
 			fact = fact/x;
 			System.out.println(fact + " " + x);
 		}
-		 System.out.println("Factorial of "+ number +" is: "+ fact);  
+		System.out.println("Factorial of "+ number +" is: "+ fact);  
+		 
+		DoggoCompetition.counting();
 	}
 }
